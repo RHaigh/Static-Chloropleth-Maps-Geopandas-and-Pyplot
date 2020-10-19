@@ -1,5 +1,6 @@
 # Static Chloropleth Maps Using Geopandas and Pyplot
 A brief guide on how to create static html, pdf or jpeg maps of a chosen variable broken down by a chosen geography level using the python programming language and supporting libraries. 
+
 Author: Richard Haigh
 
 Date of Intial Upload: 19/10/2020
@@ -17,7 +18,7 @@ shows your desired geography level breakdown (be it LA, DZ or SPC) and wish to s
 or any other quantifiable numeric measurement. 
 
 You can use this with an existing dataset providing it has a breakdown of your chosen geography level. You must also have access to the software stated above and 
-the ESRI shapefiles of your chosen geography level. 
+the ESRI shapefiles of your chosen geography level. These are too large to host on github repositories but can be found at spatialdata.gov.scot. 
 
 Using this guide, you can quickly create ouptut such as this without using any licensed mapping software, such as QGIS or Arc:
 
