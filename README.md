@@ -18,6 +18,6 @@ creating customised static maps in a format that would be suitable for enhancing
 You can use this with an existing dataset providing it has a breakdown of your chosen geography level. You must also have access to the software stated above and 
 the ESRI shapefiles of your chosen geography. These are too large to host on github repositories but can be found at spatialdata.gov.scot. 
 
-Using this guide, you can quickly create ouptut such as this without using any licensed mapping software, such as QGIS or Arc:
+As an example, we will map new Covid19 cases diagnosed on the 16th October 2020 across UK upper tier local authorities. Using this guide, you can quickly create ouptut such as this without using any licensed mapping software, such as QGIS or Arc:
 
 ![Example simple output](./example_output.png)
